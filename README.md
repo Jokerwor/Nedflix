@@ -1,6 +1,6 @@
-# 🎬 Netflix Clone
+# 🎬 Nedflix Clone
 
-A responsive **Netflix landing page clone** built using **HTML, CSS, and JavaScript**. This project recreates the modern Netflix homepage with a clean UI, responsive layout, and interactive components to practice front-end web development skills.
+A responsive **Nedflix landing page clone** built using **HTML, CSS, and JavaScript**. This project recreates the modern Nedflix homepage with a clean UI, responsive layout, and interactive components to practice front-end web development skills.
 
 ---
 
@@ -12,13 +12,13 @@ A responsive **Netflix landing page clone** built using **HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Netflix Clone](netflix.png)
+![Nedflix Clone](netflix.png)
 
 ---
 
 # ✨ Features
 
-- 🎥 Modern Netflix-inspired landing page
+- 🎥 Modern Nedflix-inspired landing page
 - 📱 Fully Responsive Design
 - 🎨 Clean and Attractive UI
 - 🌍 Language Selection Dropdown
@@ -41,8 +41,8 @@ A responsive **Netflix landing page clone** built using **HTML, CSS, and JavaScr
 
 # 📂 Project Structure
 
-```
-Netflix/
+```bash
+Nedflix/
 │
 ├── index.html
 ├── style.css
@@ -50,23 +50,8 @@ Netflix/
 ├── netflix.png
 ├── *.jpg (Movie Posters)
 └── README.md
-```
 
 ---
-
-# 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Jokerwor/Netflix.git
-```
-
-### Navigate to the Project
-
-```bash
-cd Netflix
-```
 
 ### Open in Browser
 
