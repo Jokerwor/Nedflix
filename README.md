@@ -10,12 +10,6 @@ A responsive **Nedflix landing page clone** built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📸 Preview
-
-![Nedflix Clone](netflix.png)
-
----
-
 # ✨ Features
 
 - 🎥 Modern Nedflix-inspired landing page
