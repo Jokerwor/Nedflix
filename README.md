@@ -6,7 +6,7 @@ A responsive **Nedflix landing page clone** built using **HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://nedflix.onrender.com/?
+🔗 **Website:** https://nedflix.onrender.com/
 
 ---
 
