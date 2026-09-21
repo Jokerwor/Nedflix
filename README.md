@@ -6,7 +6,7 @@ A responsive **Nedflix landing page clone** built using **HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://netflix-git-main-rishi-kumar-srivastavs-projects.vercel.app/
+🔗 **Website:** https://nedflix.onrender.com/?
 
 ---
 
